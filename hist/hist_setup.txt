@@ -1,0 +1,205 @@
+    1  killall SelfControl
+    2  sudo killall SelfControl
+    3  clear
+    4  defaults write org.eyebeam.SelfControl MaxBlockLength -int 43200
+    5  defaults write org.eyebeam.SelfControl MaxBlockLength -int 0
+    6  defaults write org.eyebeam.SelfControl BlockLengthInterval -int 0
+    7  defaults delete org.eyebeam.SelfControl
+    8  defaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControldefaults delete org.eyebeam.SelfControl
+    9  defaults delete org.eyebeam.SelfControl
+   10  clear
+   11  sudo nano /etc/hosts
+   12  sudo nano /etc/hosts
+   13  sudo nano /etc/hosts
+   14  sudo su -
+   15  pwd
+   16  cd /
+   17  ls
+   18  cd /Users/
+   19  pwd
+   20  ls
+   21  cd bearslaptop/
+   22  ls
+   23  cd Desktop/
+   24  ls
+   25  mkdir CODE
+   26  cd CODE/
+   27  ls
+   28  touch helloworld.cpp
+   29  ls
+   30  history
+   31  vi helloworld.cpp 
+   32  g++ helloworld.cpp 
+   33  vi helloworld.cpp
+   34  g++ helloworld.cpp 
+   35  ls
+   36  g++ helloworld.cpp 
+   37  ls
+   38  ./a.out
+   39  ls
+   40  cd Desktop/
+   41  ls
+   42  cd CODE/
+   43  ls
+   44  cd if/
+   45  cd ..
+   46  ls
+   47  cat
+   48  cat if/iftest.cpp 
+   49  ls
+   50  g++ ./if/iftest.cpp 
+   51  ls
+   52  g++ ./if/iftest.cpp 
+   53  g++ ./if/iftest.cpp 
+   54  g++ ./if/iftest.cpp 
+   55  g++ ./if/iftest.cpp 
+   56  g++ ./if/iftest.cpp 
+   57  g++ ./if/iftest.cpp 
+   58  6
+   59  g++ ./if/iftest.cpp 
+   60  g++ ./if/iftest.cpp 
+   61  ls
+   62  mv a.out/if
+   63  ls
+   64  mv a.out if
+   65  ls
+   66  cd if/
+   67  ls
+   68  g++ a.out
+   69  ./a.out 2
+   70  ls
+   71  g++ iftest.cpp
+   72  ls
+   73  ./a.out 2
+   74  ./a.out 2
+   75  g++ iftest.cpp
+   76  ./a.out 2
+   77  g++ iftest.cpp
+   78  mv iftest.cpp pun.cpp
+   79  ls
+   80  cd ..
+   81  ls
+   82  mv if StateNumber
+   83  ls
+   84  mv StateNumber stateNumber
+   85  ls
+   86  ls
+   87  /Desktop
+   88  ls
+   89  cd /Desktop
+   90  cd Desktop/
+   91  ls
+   92  cd CODE/
+   93  ls
+   94  mkdir hello_world
+   95  ls
+   96  mv
+   97  mv a.out hello_world/
+   98  ls
+   99  mv helloworld.cpp hello_world/
+  100  ls
+  101  cd hello_world/
+  102  ls
+  103  ..
+  104  cd ..
+  105  ls
+  106  mkdir if
+  107  ls
+  108  cd if/
+  109  vi iftest.cpp
+  110  tmux
+  111  ls
+  112  cd iftest.cpp 
+  113  o iftest.cpp 
+  114  vi iftest.cpp 
+  115  ls
+  116  cd Desktop/CODE
+  117  cd Desktop/Ultimate\ Folder\ /CODE
+  118  git clone https://github.com/bearbear887/bearbear887.github.io.git
+  119  ls
+  120  cd bearbear887.github.io/
+  121  echo "Hello World" > index.html
+  122  echo $0
+  123  htop
+  124  brew install htop
+  125  htop
+  126  cd /Users/bearslaptop/Desktop/Ultimate Folder /CODE/bearbear887.github.io
+  127  brew install chruby ruby-install
+  128  ruby-install ruby-2.6.3
+  129  which ruby
+  130  gem update --system
+  131  brew info ruby
+  132  ruby-install ruby-2.7.2
+  133  which ruby
+  134  ruby -v
+  135  echo "source /usr/local/share/chruby/chruby.sh" >> ~/.bashrc
+  136  echo "source /usr/local/share/chruby/auto.sh" >> ~/.bashrc
+  137  cat
+  138  cat ~/.bashrc
+  139  echo "chruby ruby-2.7.2" >> ~/.bashrc
+  140  cat ~/.bashrc
+  141  which ruby
+  142  which ruby
+  143  ruby -v
+  144  chruby ruby-2.7.2
+  145  brew info ruby
+  146  ls /usr/local
+  147  ls /usr/local/opt/ruby
+  148  ls /usr
+  149  ls /usr/local
+  150  ls /usr/local/opt
+  151  ls /usr/local/opt/chruby
+  152  which chruby
+  153  ls /usr/local/share/
+  154  ls /usr/local/share/chruby
+  155  source /usr/local/share/chruby/chruby.sh 
+  156  source /usr/local/share/chruby/auto.sh 
+  157  chruby ruby-2.7.2
+  158  ruby -v
+  159  cat ~/.bashrc 
+  160  ruby -v
+  161  ls -a ~
+  162  caat ~/.bashrc 
+  163  cat ~/.bashrc 
+  164  gem update --system
+  165  gem install jekyll bundler
+  166  cd Desktop/Ultimate\ Folder\ /CODE/
+  167  ls
+  168  cd bearbear887.github.io/
+  169  l
+  170  ls
+  171  bundle -v
+  172  which bundle
+  173  bundle exec jekyll serve
+  174  bundle install
+  175  bundle exec jekyll serve
+  176  gem list
+  177  bundle exec jekyll serve
+  178  bundle install activesupport-4.2.11.1
+  179  jekyll serve --watch --port 4000
+  180  gem install activesupport-4.2.11.1
+  181  gem install activesupport
+  182  bundle exec jekyll serve
+  183  jekyll serve --watch --port 4000
+  184  gem install activesupport -v 4.2.11.1
+  185  bundle exec jekyll serve
+  186  gem install ruby-enum-0.7.2
+  187  gem install ruby-enum -v 0.7.2
+  188  bundle exec jekyll serve
+  189  gem install commonmarker -v 0.17.13
+  190  bundle exec jekyll serve
+  191  gem install dnsruby -v 1.61.3
+  192  bundle exec jekyll serve
+  193  gem install ethon -v 0.12.0
+  194  bundle exec jekyll serve
+  195  bundle install
+  196  bundle exec jekyll serve
+  197  bundle install --full-index
+  198  bundle exec jekyll serve
+  199  bundle update kramdown
+  200  bundle update
+  201  bundle install --full-index
+  202  bundle exec jekyll serve
+  203  ls
+  204  mkdir hist
+  205  history >> hist/hist_setup.txt
